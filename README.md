@@ -116,13 +116,6 @@ My current focus is on strengthening my software development skills and explorin
 - 🤖 **AI Engineering** — Artificial intelligence and multi-agent systems.
 - ⚙️ **Automation** — Workflow orchestration and intelligent process optimization.
 
----
-
-### 🤝 Let's Connect
-
-I'm always interested in learning, exchanging ideas, and exploring new opportunities in technology.
-
-💻 **GitHub:** [@Ramirescodes0](https://github.com/Ramirescodes0)
 
 ---
 
