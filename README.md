@@ -112,7 +112,6 @@ Collaborative academic project exploring AI-assisted educational planning throug
 
 My current focus is on strengthening my software development skills and exploring emerging technologies.
 
-- ☕ **Java** — Object-oriented programming and backend development.
 - 🧩 **Software Engineering** — APIs, architecture, and development best practices.
 - 🤖 **AI Engineering** — Artificial intelligence and multi-agent systems.
 - ⚙️ **Automation** — Workflow orchestration and intelligent process optimization.
