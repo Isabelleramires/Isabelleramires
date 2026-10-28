@@ -13,7 +13,7 @@ I'm an Information Systems graduate with professional experience in occupational
 
 My background combines technical knowledge, business processes, and hands-on experience with **process automation, data validation, and system integrations**.
 
-I'm currently expanding my skills in **Java, backend development, and AI Engineering**, focusing on building practical and efficient software solutions.
+I'm currently expanding my skills in **backend development, and AI Engineering**, focusing on building practical and efficient software solutions.
 
 Here, I share projects developed in professional and academic contexts, reflecting my technical journey and continuous learning.
 
