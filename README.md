@@ -1,4 +1,3 @@
-
 ## 👋 Hey there, I'm Isabelle Ramires!
 
 🎓 **Information Systems Graduate | Fundação Santo André (FSA)**  
